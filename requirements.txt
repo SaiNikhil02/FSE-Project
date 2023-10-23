@@ -1,0 +1,13 @@
+asgiref==3.7.2
+Django==4.2.6
+packaging==23.2
+ply==3.11
+PyQt6==6.5.2
+PyQt6-3D==6.5.0
+PyQt6-Charts==6.5.0
+PyQt6-DataVisualization==6.5.0
+PyQt6-NetworkAuth==6.5.0
+PyQt6-sip==13.5.2
+PyQt6-WebEngine==6.5.0
+sip==6.7.12
+sqlparse==0.4.4
