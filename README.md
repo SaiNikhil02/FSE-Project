@@ -41,10 +41,10 @@ Want to play or even host your own version of the 2048 game? It's easy!
    python3 manage.py makemigrations
    python3 manage.py migrate
    python3 manage.py runserver
-
-4. Go to `/game` endpoint, to view the game page.  
-5. Use the arrow keys on your keyboard to make your moves.
-6. Enjoy the game!
+4. Game URL: http://3.14.82.217:8000/game/
+5. Go to `/game` endpoint, to view the game page.  
+6. Use the arrow keys on your keyboard to make your moves.
+7. Enjoy the game!
 
 ## 💭 Development Reflection
 
