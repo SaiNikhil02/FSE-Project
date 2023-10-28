@@ -64,7 +64,7 @@ We actively sought feedback from potential players and incorporated their input 
 
 Despite our successes, we also encountered some challenges. We underwent several design iterations, some of which consumed time and resources without yielding the desired results. It was a lesson in finding the right balance between creativity and practicality in UI design to ensure a smooth and engaging gaming experience.
 
-Additionally, deploying the game on AWS and ensuring its availability online posed its set of challenges. It required a deep understanding of the tech stack and meticulous configuration.
+Additionally, deploying the game on pythonanywhere and ensuring its availability online posed its set of challenges. It required a deep understanding of the tech stack and meticulous configuration.
 
 In conclusion, the development of the 2048 game was a journey filled with valuable lessons. We overcame challenges related to algorithm design, UI development, and teamwork, while also making the most of our successes. As we look to the future, we're excited about the potential to introduce new features, game modes, and enhancements to keep players engaged and entertained. The 2048 game project was not only a testament to our development skills but also a testament to our ability to work together as a team and deliver a fun and challenging gaming experience to our audience. We're grateful for your support and hope you enjoy playing the game as much as we enjoyed creating it.
 
